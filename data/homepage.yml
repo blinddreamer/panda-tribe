@@ -10,11 +10,11 @@ main:
 # About
 about:
   title: "About us"
-  desc: "Panda-Tribe, a tight-knit group established in 2013, boasts extensive expertise in EVE Online's industrial landscape. Renowned for our mastery in crafting T2 ships, we pride ourselves on seamless collaboration and a rich legacy of contributing to New Eden's industrial tapestry."
+  desc: "We are a tight-knit group established in 2013, boasts extensive expertise in EVE Online's industrial landscape. Renowned for our mastery in crafting T2 ships, we pride ourselves on seamless collaboration and a rich legacy of contributing to New Eden's industrial tapestry."
   button:
     enable: true
-    text: "Button"
-    url: "#"
+    text: "Contact Us"
+    url: "#contact"
   image: "assets/img/us.png"
 projects:
   card1:
