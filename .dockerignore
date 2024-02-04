@@ -1,0 +1,11 @@
+# Ignore unnecessary Docker build artifacts
+
+.dockerignore
+.gitignore
+.dockerignore
+.editorconfig
+.git
+.gitattributes
+.gitignore
+.vscode/
+**pycache**/

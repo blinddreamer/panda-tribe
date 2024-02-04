@@ -1,0 +1,31 @@
+# Main Title
+main:
+  header:
+    title: "Panda-Tribe" # Title Text
+    description: "Building ships since 2011." # Title Desc
+    button:
+      text: "Learn More" # Button Text
+      url: "#about" # Button URL
+
+# About
+about:
+  title: "About us"
+  desc: "Panda-Tribe, a tight-knit group established in 2013, boasts extensive expertise in EVE Online's industrial landscape. Renowned for our mastery in crafting T2 ships, we pride ourselves on seamless collaboration and a rich legacy of contributing to New Eden's industrial tapestry."
+  button:
+    enable: true
+    text: "Button"
+    url: "#"
+  image: "assets/img/ipad.png"
+projects:
+  card1:
+    title: "Built more than 10k ships in 2024"
+    text: "In 2024, Panda Tribe left a significant mark on the market, having built and sold over 10,000 ships - reinforcing their standing in New Eden."
+    img: "assets/img/5k.jpg"
+  card2:
+    title: "Specializing in Mass Production of T2 Destroyers and Frigates"
+    text: "Panda Tribe excels in the large-scale manufacturing of various T2 destroyers and frigates, catering to a diverse range of spacecraft needs."
+    img: "assets/img/thrasher.jpg"
+  card3:
+    title: "Ready to Sell Materials?"
+    text: "We're actively seeking suppliers for large quantities of materials essential for crafting advanced small ships. Please visit our 'pricing' page. Feel free to contact us ingame or through the link below if you're interested in making a deal."
+    img: "assets/img/venture.jpg"
