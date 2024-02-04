@@ -1,5 +1,5 @@
 # Use an official Hugo runtime as a parent image
-FROM klakegg/hugo:latest
+FROM hugomods/hugo:latest
 
 # Set the working directory to /app
 WORKDIR /app
