@@ -1,5 +1,5 @@
 # Use an official Hugo runtime as a parent image
-FROM klakegg/hugo:0.79.1-ext-alpine
+FROM klakegg/hugo:0.111.3-ext-alpine
 
 # Set the working directory to /app
 WORKDIR /app
