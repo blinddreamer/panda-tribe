@@ -15,7 +15,7 @@ about:
     enable: true
     text: "Button"
     url: "#"
-  image: "assets/img/ipad.png"
+  image: "assets/img/us.png"
 projects:
   card1:
     title: "Built more than 10k ships in 2024"
@@ -24,7 +24,7 @@ projects:
   card2:
     title: "Specializing in Mass Production of T2 Destroyers and Frigates"
     text: "Panda Tribe excels in the large-scale manufacturing of various T2 destroyers and frigates, catering to a diverse range of spacecraft needs."
-    img: "assets/img/thrasher.jpg"
+    img: "assets/img/talwar.jpg"
   card3:
     title: "Ready to Sell Materials?"
     text: "We're actively seeking suppliers for large quantities of materials essential for crafting advanced small ships. Feel free to contact us ingame or through the link below if you're interested in making a deal."
