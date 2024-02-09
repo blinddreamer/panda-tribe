@@ -18,8 +18,8 @@ about:
   image: "assets/img/us.png"
 projects:
   card1:
-    title: "Built more than 10k ships in 2024"
-    text: "In 2024, Panda Tribe left a significant mark on the market, having built and sold over 10,000 ships - reinforcing their standing in New Eden."
+    title: "Built more than 10k ships in 2023"
+    text: "In 2023, Panda Tribe left a significant mark on the market, having built and sold over 10,000 ships - reinforcing their standing in New Eden."
     img: "assets/img/5k.jpg"
   card2:
     title: "Specializing in Mass Production of T2 Destroyers and Frigates"
